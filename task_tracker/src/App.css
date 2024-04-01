@@ -1,0 +1,16 @@
+div{
+    font-family: sans-serif;
+}
+
+::-webkit-scrollbar{
+    width: 8px;
+}
+
+::-webkit-scrollbar-track{
+    border: 2px solid #ccc;
+    border-radius: 20px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #837b7b;
+    border-radius: 20px;
+}

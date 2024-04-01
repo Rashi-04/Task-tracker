@@ -1,0 +1,24 @@
+.task{
+    border: 0.5px solid gray;
+    border-radius: 5px;
+    background-color: lightgrey;
+    margin: 10px 2px;
+    height: 150px;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5px;
+}
+
+.lower{
+    display: flex;
+    flex-direction: column;
+}
+
+.assignee{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
